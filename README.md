@@ -1,0 +1,2 @@
+# FlexionCodeReview
+Functional Requirements: The user must be able to submit three numbers that represent the lengths of line segments. The program responds with the most specific triangle classification that applies to the three lengths, including: scalene, equilateral, isosceles, not a triangle.All you need is a index html file and then load the javascript file. Remember do not forget to load the bootstrap CDN which is already included in the html file
